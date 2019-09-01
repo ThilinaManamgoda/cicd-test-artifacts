@@ -1,4 +1,4 @@
-# cicd-test-artifacts
+# cicd-test-artifacts-test
 
 This repository holds artifacts and scenario tests
 
